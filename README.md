@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Helo there, I´m Xayil 👋</h1>
+</div>
+
+I´m a 20-years-old developer based in Mexico. I´m passionate about coding and games/videogames.
+
+## About Me
 
 <!--
 **Xayil/Xayil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
