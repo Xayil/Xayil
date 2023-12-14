@@ -7,7 +7,7 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about coding and 
 
 ## About Me
 - 👨‍💻 I´m currently working on my own technology company named BIYUL and at the same time I´m working on a videogame studio.
-- 📗 I´m currently pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at the university level.
+- 📗 I´m currently pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
 - 🔋 I´m a Web Developer
 - 📲 I´m learning mobile development currently on Flutter, but my first app was code with Swift.
 
@@ -71,19 +71,5 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about coding and 
 
 ## Fun Facts
 - My favorite videogame is Uncharted
-- I love coding indoors, but I prefer being outdoors when I'm with my people.
+- I love coding indoors, but I prefer being outdoors when I'm with my friends.
 - I get excited about challenges; if I don't know something, I find a way.
-<!--
-**Xayil/Xayil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
