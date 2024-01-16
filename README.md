@@ -6,7 +6,7 @@
 I´m a 20-years-old developer based in Mexico. I´m passionate about coding and games/videogames.
 
 ## About Me
-- 👨‍💻 I´m currently working on my own technology company named BIYUL and at the same time I´m working on a videogame studio.
+- 👨‍💻 I´m currently working at BIYUL a technology company and at the same time I´m working on a videogame studio called Contagius Interactive.
 - 📗 I´m currently pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
 - 🔋 I´m a Web Developer
 - 📲 I´m learning mobile development currently on Flutter, but my first app was code with Swift.
