@@ -35,7 +35,6 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about coding and 
       <kbd>Mobile Development</kbd>
       <br>
       <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flutter/flutter-original.svg"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg"/>
     </kbd>
     <kbd>
