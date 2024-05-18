@@ -2,13 +2,13 @@
 <h1 align="center">Helo there, I´m Xayil 👋</h1>
 </div>
 
-I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools,neither for my own purpose or little companies.
+I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools or be part of a project where my skills are pushed to the limit.
 
 ## About Me
-- 👨‍💻 I´m currently working at BIYUL a technology company and at the same time I´m working on a videogame studio called Contagius Interactive.
-- 📗 I´m currently pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
-- 🔋 I´m a Web Developer
-- 📲 I´m learning mobile development currently on Flutter, but my first app was code with Swift.
+- 👨‍💻 I´m currently working at GOJI.MX an AI company as a back-end developer. And despite my work I'm creating my startup called BIYUL, where we are developying a neuropsychological battery.
+- 📗 Now a days I´m pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
+- 🔋 Despite my actual work, on February 29 of 2024 I developed a videogame called **Crazy-Engine** with Contagion Interactive Studio
+- 📲 Usually when I watch TV, the series or movies are cartoon short films. 
 
 ## Tools
 <div>
