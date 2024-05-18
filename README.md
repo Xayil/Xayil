@@ -1,4 +1,3 @@
-<img align="right" alt="GIF" height="160px" src="[https://giphy.com/gifs/nostalgia-pacman-love-jxJjBMvqEvMSA](https://giphy.com/embed/jxJjBMvqEvMSA)" />
 <div align="center">
 <h1 align="center">Helo there, I´m Xayil 👋</h1>
 </div>
