@@ -2,13 +2,13 @@
 <h1 align="center">Helo there, I´m Xayil 👋</h1>
 </div>
 
-I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools or be part of a project where my skills are pushed to the limit.
+I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools or being part of a project where my skills are pushed to the limit.
 
 ## About Me
 - 👨‍💻 I´m currently working at GOJI.MX an AI company as a back-end developer. And despite my work I'm creating my startup called BIYUL, where we are developying a neuropsychological battery.
 - 📗 Now a days I´m pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
 - 🔋 Despite my actual work, on February 29 of 2024 I developed a videogame called **Crazy-Engine** with Contagion Interactive Studio
-- 📲 Usually when I watch TV, the series or movies are cartoon short films. 
+- 📲 I think mobile apps are a big market now a days, that's why a year ago I start learning tools like Swift and React-Native.
 
 ## Tools
 <div>
@@ -29,12 +29,15 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about creating ne
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
     </kbd>
     <kbd>
       <kbd>Mobile Development</kbd>
       <br>
       <br>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg"/>
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
@@ -43,6 +46,9 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about creating ne
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" />
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" />
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" />
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" />
+      <img width='30px' src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" />
     </kbd>
     <kbd>
       <kbd>Networking</kbd>
@@ -69,5 +75,5 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about creating ne
 
 ## Fun Facts
 - My favorite videogame is Uncharted
-- I love coding indoors, but I prefer being outdoors when I'm with my friends.
+- Usually when I watch TV, the series or movies are cartoon short films. 
 - I get excited about challenges; if I don't know something, I find a way.
