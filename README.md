@@ -1,9 +1,9 @@
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif](https://giphy.com/gifs/nostalgia-pacman-love-jxJjBMvqEvMSA)" />
 <div align="center">
 <h1 align="center">Helo there, I´m Xayil 👋</h1>
 </div>
 
-I´m a 20-years-old developer based in Mexico. I´m passionate about coding and games/videogames.
+I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools,neither for my own purpose or little companies.
 
 ## About Me
 - 👨‍💻 I´m currently working at BIYUL a technology company and at the same time I´m working on a videogame studio called Contagius Interactive.
