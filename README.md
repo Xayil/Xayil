@@ -18,7 +18,6 @@ I´m a 20-years-old developer based in Mexico. I´m passionate about creating ne
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg" />
     </kbd>
