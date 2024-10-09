@@ -5,7 +5,7 @@
 I´m a 20-years-old developer based in Mexico. I´m passionate about creating new tools or being part of a project where my skills are pushed to the limit.
 
 ## About Me
-- 👨‍💻 I´m currently working at GOJI.MX an AI company as a back-end developer. And despite my work I'm creating my startup called BIYUL, where we are developying a neuropsychological battery.
+- 👨‍💻 I´m currently working at GOJI.MX an AI company as a back-end developer. And despite my work, I work with a tean where we are developying a neuropsychological battery.
 - 📗 Now a days I´m pursuing a degree in **Computer Engineering with a focus on IT and Cybersecurity** at university level.
 - 🔋 Despite my actual work, on February 29 2024 I developed a videogame called **Crazy-Engine** with Contagion Interactive Studio
 - 📲 I think mobile apps are a big market now a days, that's why a year ago I start learning tools like Swift and React-Native.
